@@ -22,13 +22,13 @@ for (f in files) {
     gis <- gsub("gi\\|(\\d+).*", "\\1", names(fasta))
 
     ## get entrez entry
-    #entries <- lapply(gis, function(id) {
-    #    entrez_fetch(db='nuccore', id=id, rettype='gb')
-    #})
+    entries <- lapply(gis, function(id) {
+        entrez_fetch(db='nuccore', id=id, rettype='gb')
+    })
 
     ## extract taxids and set as seq deflines
-    #taxids <- gsub(".*taxon:(\\d+).*", "\\1", entries)
-    #names(fasta) <- taxids
+    taxids <- gsub(".*taxon:(\\d+).*", "\\1", entries)
+    names(fasta) <- taxids
 
     ## write new file
     file.name <- paste0(substr(f, 1, nchar(f)-6), '-cleaned.fa')
