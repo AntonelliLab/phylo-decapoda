@@ -1,122 +1,122 @@
-Polycheles_aculeatus
-Polycheles_baccatus
-Polycheles_suhmi
-Polycheles_sculptus
-Polycheles_typhlops
-Polycheles_amemiyai
-Polycheles_enthrix
-Stereomastis_nana
-Astacus_astacus
-Pacifastacus_leniusculus
-Pacifastacus_connectens
-Pontastacus_leptodactylus
-Austropotamobius_torrentium
-Austropotamobius_pallipes
-Austropotamobius_italicus
-Cherax_destructor
-Cherax_quadricarinatus
-Cherax_cuspidatus
-Cherax_rotundus
-Cherax_albidus
-Cherax_dispar
-Cherax_glaber
-Cherax_quinquecarinatus
-Homarus_americanus
-Homarus_gammarus
-Nephrops_norvegicus
-Metanephrops_mozambicus
-Metanephrops_armatus
-Metanephrops_rubellus
-Metanephrops_thomsoni
-Metanephrops_andamanicus
-Metanephrops_arafurensis
-Enoplometopus_occidentalis
-Enoplometopus_daumi
-Enoplometopus_debelius
-Enoplometopus_crosnieri
-Enoplometopus_chacei
-Palinurus_vulgaris
-Palinurus_elephas
-Palinurus_delagoae
-Palinurus_gilchristi
-Palinurus_mauritanicus
-Palinurus_charlestoni
-Palinurus_barbarae
-Panulirus_interruptus
-Thenus_orientalis
-Thenus_unimaculatus
-Thenus_australiensis
-Thenus_indicus
-Thenus_parindicus
-Scyllarides_nodifer
-Scyllarides_latus
-Scyllarides_herklotsii
-Orconectes_jonesi
-Orconectes_mississippiensis
-Orconectes_nais
-Orconectes_rhoadesi
-Orconectes_holti
-Orconectes_validus
-Orconectes_limosus
-Orconectes_indianensis
-Orconectes_wrighti
-Orconectes_australis
-Orconectes_inermis
-Orconectes_pagei
-Orconectes_pellucidus
-Orconectes_packardi
-Orconectes_incomptus
-Orconectes_barri
-Orconectes_bisectus
-Orconectes_burri
-Orconectes_erichsonianus
-Orconectes_illinoiensis
-Orconectes_jeffersoni
-Orconectes_marchandi
-Orconectes_obscurus
-Orconectes_propinquus
-Orconectes_rafinesquei
-Orconectes_sanbornii
-Orconectes_shoupi
-Orconectes_stannardi
-Orconectes_tricuspis
-Orconectes_virginiensis
-Orconectes_eupunctus
-Orconectes_harrisoni
-Orconectes_hobbsi
-Orconectes_meeki
-Orconectes_palmeri
-Orconectes_kentuckiensis
-Orconectes_sloanii
-Cambarellus_montezumae
-Cambarellus_chapalanus
-Cambarellus_occidentalis
-Cambarellus_patzcuarensis
-Cambarellus_prolixus
-Cambarellus_zempoalensis
-Cambarellus_shufeldtii
-Cambarellus_blacki
-Cambarellus_diminutus
-Cambarellus_lesliei
-Cambarellus_ninae
-Cambarellus_puer
-Cambarellus_schmitti
-Cambarellus_texanus
-Orconectes_virilis
-Callianassa_subterranea
-Callianassa_aqabaensis
-Callianassa_filholi
-Callianassa_kraussi
-Upogebia_affinis
-Upogebia_africana
-Upogebia_capensis
-Upogebia_major
-Upogebia_acanthura
-Upogebia_annae
-Upogebia_corallifora
-Upogebia_pusilla
-Callianidea_typa
-Thomassinia_gebioides
-Thalassina_anomala
-Thalassina_squamifera
-Thalassina_kelanang
+Polycheles aculeatus
+Polycheles baccatus
+Polycheles suhmi
+Polycheles sculptus
+Polycheles typhlops
+Polycheles amemiyai
+Polycheles enthrix
+Stereomastis nana
+Astacus astacus
+Pacifastacus leniusculus
+Pacifastacus connectens
+Pontastacus leptodactylus
+Austropotamobius torrentium
+Austropotamobius pallipes
+Austropotamobius italicus
+Cherax destructor
+Cherax quadricarinatus
+Cherax cuspidatus
+Cherax rotundus
+Cherax albidus
+Cherax dispar
+Cherax glaber
+Cherax quinquecarinatus
+Homarus americanus
+Homarus gammarus
+Nephrops norvegicus
+Metanephrops mozambicus
+Metanephrops armatus
+Metanephrops rubellus
+Metanephrops thomsoni
+Metanephrops andamanicus
+Metanephrops arafurensis
+Enoplometopus occidentalis
+Enoplometopus daumi
+Enoplometopus debelius
+Enoplometopus crosnieri
+Enoplometopus chacei
+Palinurus vulgaris
+Palinurus elephas
+Palinurus delagoae
+Palinurus gilchristi
+Palinurus mauritanicus
+Palinurus charlestoni
+Palinurus barbarae
+Panulirus interruptus
+Thenus orientalis
+Thenus unimaculatus
+Thenus australiensis
+Thenus indicus
+Thenus parindicus
+Scyllarides nodifer
+Scyllarides latus
+Scyllarides herklotsii
+Orconectes jonesi
+Orconectes mississippiensis
+Orconectes nais
+Orconectes rhoadesi
+Orconectes holti
+Orconectes validus
+Orconectes limosus
+Orconectes indianensis
+Orconectes wrighti
+Orconectes australis
+Orconectes inermis
+Orconectes pagei
+Orconectes pellucidus
+Orconectes packardi
+Orconectes incomptus
+Orconectes barri
+Orconectes bisectus
+Orconectes burri
+Orconectes erichsonianus
+Orconectes illinoiensis
+Orconectes jeffersoni
+Orconectes marchandi
+Orconectes obscurus
+Orconectes propinquus
+Orconectes rafinesquei
+Orconectes sanbornii
+Orconectes shoupi
+Orconectes stannardi
+Orconectes tricuspis
+Orconectes virginiensis
+Orconectes eupunctus
+Orconectes harrisoni
+Orconectes hobbsi
+Orconectes meeki
+Orconectes palmeri
+Orconectes kentuckiensis
+Orconectes sloanii
+Cambarellus montezumae
+Cambarellus chapalanus
+Cambarellus occidentalis
+Cambarellus patzcuarensis
+Cambarellus prolixus
+Cambarellus zempoalensis
+Cambarellus shufeldtii
+Cambarellus blacki
+Cambarellus diminutus
+Cambarellus lesliei
+Cambarellus ninae
+Cambarellus puer
+Cambarellus schmitti
+Cambarellus texanus
+Orconectes virilis
+Callianassa subterranea
+Callianassa aqabaensis
+Callianassa filholi
+Callianassa kraussi
+Upogebia affinis
+Upogebia africana
+Upogebia capensis
+Upogebia major
+Upogebia acanthura
+Upogebia annae
+Upogebia corallifora
+Upogebia pusilla
+Callianidea typa
+Thomassinia gebioides
+Thalassina anomala
+Thalassina squamifera
+Thalassina kelanang
